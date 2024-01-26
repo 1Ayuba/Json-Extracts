@@ -1,11 +1,15 @@
+# About
+The purpose of these Python script is to process an Excel file, extract specified fields from a JSON column, remove duplicate rows based on some specified columns, and save the modified DataFrame to a new Excel file.")
+
 # Json-Extracts
 Instructions for Running the Excel Processing Script
+
 
 ## Clone the Repository:
 
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/your-repository.git
+git clone [https://github.com/your-username/your-repository.git](https://github.com/1Ayuba/Json-Extracts)
 Navigate to the Script Directory:
 
 ## Change into the directory containing the script:
