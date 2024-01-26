@@ -1,4 +1,5 @@
 # About
+#### Ayuba Ahmed Bayugo
 The purpose of these Python script is to process an Excel file, extract specified fields from a JSON column, remove duplicate rows based on some specified columns, and save the modified DataFrame to a new Excel file.")
 
 # Json-Extracts
